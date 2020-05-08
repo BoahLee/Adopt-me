@@ -2,5 +2,6 @@
   "editor.formatOnSave": true,
   "editor.tokenColorCustomizations": {
     "variables": "#F0E68C"
-  }
+},
+"prettier.requireConfig": true
 }
